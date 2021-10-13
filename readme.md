@@ -9,7 +9,7 @@ This is a Node command-line interface that takes in information about employees 
 
 ### Video link and gif demo 
 
-![Git](Template Engine - Employee Summary.gif)
+![Git](demo.gif)
 [Video Link](https://drive.google.com/file/d/1QB3tGmhwUEy2J4LA1nhc2gK21O0s6t01/view)
 
 
